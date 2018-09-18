@@ -1,0 +1,4 @@
+# Doing-Bayesian-Data-Analysis
+Bayesian data analysis has been an interest of mine since mid-2017 and I've finally decided to scratch it. Most of my statistical education dealt with issues of long-run frequency problems. Objective (i.e. frequentist or classical) probability frameworks have seemed hard to conceptualize whenever I encounter scenarios of tiny sample sizes, rare events, incomplete data, or hard to repeat as an experiment. The concept of subjective probability, calibrating beliefs like a probability distribution, and updating these beliefs with data has become appealing to me for practical purposes in decision making, whether in personal life or for work. 
+
+The examples contained herein mark some of my beginning learnings in bayesian data analysis based on the end of chapter exercises from the book "Doing Bayesian Data Analysis" (2nd Edition) by John K. Kruschke.
